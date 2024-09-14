@@ -8,23 +8,6 @@
   "attributes": [
     {
       "trait_type": "Walking Dead",
-      "value": "Survival"
-    }
-  ],
-  "content_url": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmWVNDW4egHkYBHrpHtTjM7Ev9YYgXTmpWif5DLZNgNUPY",
-  "description": "It's zombie last survival Octies from Earth",
-  "image": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmWVNDW4egHkYBHrpHtTjM7Ev9YYgXTmpWif5DLZNgNUPY"
-}
-{
-  "buttons": [
-    {
-      "label": "Go to game!",
-      "uri": "https://t.me/Octies_bot"
-    }
-  ],
-  "attributes": [
-    {
-      "trait_type": "Walking Dead",
       "value": "Last survival"
     }
   ],
