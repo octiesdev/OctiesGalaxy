@@ -1,14 +1,24 @@
 {
-  "buttons": [
+  "name": "Octies",
+  "description": "Octies (origin: Neophidian) is the result of anthropogenesis and genetic engineering achieved by his civilization in the distant future. He was born in an era where the boundaries between biology and technology were erased, and living beings could alter their nature through genetic modification and symbiosis with advanced technologies. His body is a perfect symbiosis of organic matter and quantum nanotechnology, enabling him to adapt to any conditions and survive in extreme environments. Octies became the embodiment of a future where science and biology merged into a single whole.",
+  "friends": [
     {
-      "label": "Octies Galaxy",
-      "uri": "https://t.me/Octies_bot"
+      "name": "Pavduros",
+      "contract": "kQAQkUqrdNi5iOBypeGHGncqwHkBWl8p__PJZE_WSC6rLhrT"
+    },
+    {
+      "name": "Zombus",
+      "contract": "kQBuEHcLucZ7mG-lo0k348aJRcEex_hHpUeXzu06w-gp0ILR"
     }
   ],
   "attributes": [
     {
       "trait_type": "Anthropogenesis",
       "value": "Neophidian"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Adaptation to Any Environment"
     },
     {
       "trait_type": "Metamorphism",
@@ -23,12 +33,22 @@
       "value": "22 years"
     },
     {
-      "trait_type": "Emotional aspect",
+      "trait_type": "Emotional Aspect",
       "value": "Sadness and Wisdom"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Quantum Nanotech Symbiosis"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Standard Regeneration"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Octies Galaxy"
     }
   ],
-  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmd7esXpZigDfTviJkNkkBbNgNNVGTxtLCLhPTAK1WNMCR",
-  "description": "Octies (origin: Neophidian) is the result of anthropogenesis and genetic engineering achieved by his civilization in the distant future. He was born in an era where the boundaries between biology and technology were erased, and living beings could alter their nature through genetic modification and symbiosis with advanced technologies. His body is a perfect symbiosis of organic matter and quantum nanotechnology, enabling him to adapt to any conditions and survive in extreme environments. Octies became the embodiment of a future where science and biology merged into a single whole.​",
-  "name": "Octies",
-  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmd7esXpZigDfTviJkNkkBbNgNNVGTxtLCLhPTAK1WNMCR"
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmd7esXpZigDfTviJkNkkBbNgNNVGTxtLCLhPTAK1WNMCR",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmd7esXpZigDfTviJkNkkBbNgNNVGTxtLCLhPTAK1WNMCR"
 }
