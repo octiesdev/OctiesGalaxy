@@ -1,6 +1,16 @@
 {
   "name": "Pavduros",
   "description": "Pavduros, originally a human, saved a dying Neophidian when he was 7 years old. In gratitude, the Neophidian granted him the ability to transform into a Neophidian during moments of extreme danger. He used this power to evade arrest in France and later met Octies and Zombus, who helped him unlock the full potential of his gift. Now a half-human, half-Neophidian, Pavel joins them in traveling the galaxy, using his powers to explore and protect civilizations.",
+  "friends": [
+    {
+      "name": "Octies",
+      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+    },
+    {
+      "name": "Zombus",
+      "contract": "kQBuEHcLucZ7mG-lo0k348aJRcEex_hHpUeXzu06w-gp0ILR"
+    }
+  ],
   "attributes": [
     {
       "trait_type": "Anthropogenesis",
@@ -11,20 +21,32 @@
       "value": "Neophidian Transformation"
     },
     {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
       "trait_type": "Origin",
       "value": "Human"
     },
     {
-      "trait_type": "Encounter",
-      "value": "Saved a dying Neophidian"
-    },
-    {
-      "trait_type": "Allies",
-      "value": "Octies and Zombus"
+      "trait_type": "Age",
+      "value": "33 years"
     },
     {
       "trait_type": "Emotional Aspect",
       "value": "Courage and Wisdom"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Octies and Zombus"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZbERvojQyGGpHRsWHv8XK3JuRiKoxQmTqsQ4G5sGwzyv",
