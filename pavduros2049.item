@@ -1,0 +1,54 @@
+{
+  "name": "Pavduros 2049",
+  "description": "Pavduros, once a human who gained Neophidian powers, was invited to the Token2049 summit to discuss the integration of Neophidian technology and magic with blockchain and galactic economies. During the event, he showcased the fusion of magic and technology to protect the future of the galaxy. However, the summit was soon targeted by adversaries aiming to disrupt the integration of these new advancements. With his unmatched abilities, Pavduros foiled the plot, proving once again his value as a protector of the Octies galaxy.",
+  "friends": [
+    {
+      "name": "Octies",
+      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+    },
+    {
+      "name": "Zombus",
+      "contract": "kQBuEHcLucZ7mG-lo0k348aJRcEex_hHpUeXzu06w-gp0ILR"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Human-Neophidian Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Neophidian Transformation and Strategic Insight"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Token2049 Summit"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Courage and Vision"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Quantum Blockchain Integration"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Enhanced Mental Clarity"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Pavduros"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmRTGcvumgksHJLLFZvJVwfPbbQZFR1zFfyX2fLVPStSJY",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmRTGcvumgksHJLLFZvJVwfPbbQZFR1zFfyX2fLVPStSJY"
+}
