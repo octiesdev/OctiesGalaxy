@@ -1,0 +1,32 @@
+{
+  "name": "Free Durov",
+  "description": "Pavel Durov, originally a human, saved a dying Neophidian when he was 7 years old. In gratitude, the Neophidian granted him the ability to transform into a Neophidian during moments of extreme danger. He used this power to evade arrest in France and later met Octies and Zombus, who helped him unlock the full potential of his gift. Now a half-human, half-Neophidian, Pavel joins them in traveling the galaxy, using his powers to explore and protect civilizations.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Human-Neophidian Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Neophidian Transformation"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Encounter",
+      "value": "Saved a dying Neophidian"
+    },
+    {
+      "trait_type": "Allies",
+      "value": "Octies and Zombus"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Courage and Wisdom"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZbERvojQyGGpHRsWHv8XK3JuRiKoxQmTqsQ4G5sGwzyv",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZbERvojQyGGpHRsWHv8XK3JuRiKoxQmTqsQ4G5sGwzyv"
+}
