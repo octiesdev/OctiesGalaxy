@@ -1,0 +1,54 @@
+{
+  "name": "Joknax",
+  "description": "Joknax was once a brilliant scientist in the Octies galaxy, dedicated to the study of genetic engineering and the limits of Neophidian power. His experiments, aimed at surpassing even Neophidian evolution, led to disaster — his mind shattered, and he transformed into a chaotic, mad creature. His body and mind were forever altered, balancing between genius and insanity. Joknax was exiled, and his name became legend. After a long exile, he resurfaced and offered his knowledge and technology to Octies and Pavduros, though his dark and unpredictable methods pose a constant danger. Without his genius, however, their mission may be impossible.",
+  "friends": [
+    {
+      "name": "Octies",
+      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+    },
+    {
+      "name": "Pavduros",
+      "contract": "kQAQkUqrdNi5iOBypeGHGncqwHkBWl8p__PJZE_WSC6rLhrT"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Scientist"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Genius and Madness"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Altered Physique"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Genetic Engineering Experiment"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Insanity and Brilliance"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Advanced Genetic Tools"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Mental Fracture"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Octies and Pavduros"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmW5ab1vNUeCkDmkw1K7VgvjofbkcVZUGWxGZibYH6YAAB",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmW5ab1vNUeCkDmkw1K7VgvjofbkcVZUGWxGZibYH6YAAB"
+}
