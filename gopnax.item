@@ -1,0 +1,42 @@
+{
+  "name": "Gopnax",
+  "description": "Gopnax, born in the rough streets of an underdeveloped planet in the Octies Galaxy, rose to prominence as a leader of local street gangs. His raw strength and street smarts attracted the attention of Joknax, a mad scientist who saw potential in enhancing Gopnax's abilities through his experiments. Joknax did not intend to conquer Gopnax's planet but wanted to persuade him to join the defense of the galaxy, using his powers to protect worlds. However, Gopnax refused to listen to Joknax's offers, distrusting his intentions. Their conversation escalated into conflict, after which Gopnax disappeared, and has not been seen since. Now, realizing the potential danger of Gopnax's experiments for other worlds, Joknax has joined forces with Octies to stop him should he reappear. Gopnax's straightforward methods and brute force make him a villain in the Octies Galaxy.",
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "kQCJcJ5ONC1IuePGB05Eu_hIttukZmBxSeYebAQMy3JfoxjV"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Underdeveloped Planet"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Brute Strength and Street Smarts"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Age",
+      "value": "30 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Ruthless and Unyielding"
+    },
+    {
+      "trait_type": "Combat Style",
+      "value": "Street Fighting"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Octies and Joknax"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmepniQZ6FRoAx2gdf5VRqop8ZXg5Z4254WAGCPSTG9RQ8",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmepniQZ6FRoAx2gdf5VRqop8ZXg5Z4254WAGCPSTG9RQ8"
+}
