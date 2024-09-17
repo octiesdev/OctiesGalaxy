@@ -1,0 +1,48 @@
+{
+  "name": "Yodonties",
+  "description": "Yodonties, an ancient and wise master, is one of the last of his kind in the Octies Galaxy. His unmatched control over energy and power, combined with his mastery of Neophidian technology, makes him one of the most powerful figures in the galaxy. Yodonties mentored Octies, helping him harness the fusion of magic and technology to maintain balance in the universe. However, Yodonties' greatest challenge lies in his former student, Joknax, who turned to dark experiments in his quest for immortality and perfection. Yodonties and Octies now work together to stop Joknax's dangerous plans, preserving peace in the galaxy.",
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "kQCJcJ5ONC1IuePGB05Eu_hIttukZmBxSeYebAQMy3JfoxjV"
+    }
+  ],
+  "friends": [
+    {
+      "name": "Octies",
+      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Ancient Master"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Energy Control and Neophidian Technology Mastery"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Thousands of years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Wisdom and Determination"
+    },
+    {
+      "trait_type": "Combat Style",
+      "value": "Force and Energy Manipulation"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Octies and Joknax"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmf6ahDByxF2vNYeZ9Cy3kEjxxtZpdVw4PGrHjJteSgoJe",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmf6ahDByxF2vNYeZ9Cy3kEjxxtZpdVw4PGrHjJteSgoJe"
+}
