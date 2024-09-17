@@ -1,0 +1,52 @@
+{
+  "name": "Codeus",
+  "description": "Codeus, a master of code and digital technology, is one of the most significant Neophidian figures in the Octies Galaxy. His mastery over programming and galactic digital networks allows him to bridge the gap between Earth and Octies Galaxy, facilitating the flow of information and energy across civilizations. His mysterious connection to Pavduros, the powerful human-Neophidian hybrid from Earth, is rooted in an unexplained cosmic bond that enables them to collaborate across vast distances. During the Token2049 summit, Codeus saved the day by detecting a cyber attack on Pavduros' network and quickly neutralizing the threat. Gopnax is suspected to be behind the attack, though no definitive proof has been found yet. Together, Codeus and Pavduros, along with Pavduros 2049, develop programs that protect planets, share technologies, and maintain galactic stability, making Codeus an indispensable figure in both realms.",
+  "friends": [
+    {
+      "name": "Pavduros",
+      "contract": "kQAQkUqrdNi5iOBypeGHGncqwHkBWl8p__PJZE_WSC6rLhrT"
+    },
+    {
+      "name": "Pavduros 2049",
+      "contract": "kQDNKr2f5VmXFbKqBAiHuW_NBpy2KBxMD8QOjvhIrIBqkwjD"
+    },
+    {
+      "name": "Octies",
+      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Gopnax",
+      "contract": "kQCUmBIyTjsxXPEYMSKfeyAmHMpoiafhTVP-Laok8pE2-RnR"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Neophidian Programmer"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Master of Digital Networks and Coding"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Cybernetic Connection"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Focused and Analytical"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Pavduros, Pavduros 2049, and Earth"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qma8KkWm3nb46oMnRQkE7BGJUVXGxigg7meS5tPVcR3zpv",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qma8KkWm3nb46oMnRQkE7BGJUVXGxigg7meS5tPVcR3zpv"
+}
