@@ -1,0 +1,54 @@
+{
+  "name": "Wolveron",
+  "description": "Wolveron was the first successful project of the Neophidian program aimed at creating the perfect warrior. His extraordinary regenerative abilities, strength, and resilience made him an unstoppable force. Unlike Neopool, Wolveron remained mentally stable and disciplined, becoming a relentless fighter with a clear mission: to destroy those who created him and subjected him to the experiments. Over time, Wolveron crossed paths with Neopool, the failed result of the same program. Despite their vastly different approaches to battle and life, their shared past bound them together in a reluctant alliance. Their rivalry is fierce, yet their common goal to bring down the organization that manipulated them forces them to work together. As they battle against their creators and protect the Octies Galaxy, Wolveron and Neopool form a complex, uneasy partnership. While Wolveron fights with discipline and purpose, Neopool embraces chaos and unpredictability, and together they are a devastating force. Their bond with Octies, who sees their potential, adds further complexity, as both heroes fight to protect the galaxy while navigating their own inner demons and shared history.",
+  "friends": [
+    {
+      "name": "Octies",
+      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+    },
+    {
+      "name": "Neopool",
+      "contract": "kQBi4DOfu6NjAyEMY_fbynrnBNoOVFcPJhOPldRbwDLDHxbg"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Enhanced Disciplined Warrior"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Regeneration and Enhanced Strength"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Successful Neophidian Experiment"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Discipline and Resilience"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Regenerative Nanites"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Unmatched Healing Factor"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Octies and Neopool"
+    }
+  ],
+  "image": "https://your-ipfs-link-to-wolveron-image",
+  "content_url": "https://your-ipfs-link-to-wolveron-content"
+}
