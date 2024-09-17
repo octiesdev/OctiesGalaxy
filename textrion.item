@@ -1,0 +1,38 @@
+{
+  "name": "Textrion",
+  "description": "Textrion, an elite counter-terrorist from Earth, is on a secret mission in the Octies Galaxy, but his true motives are far more personal than they appear. While he poses as a defender of galactic civilizations, his real target is Terrox, the Neophidian-enhanced mercenary. Years ago, on Earth, during a high-stakes mission, Textrion’s closest friend and partner was killed in an operation that went terribly wrong. Terrox, who was a shadowy figure operating in the chaos, is the one Textrion blames for the loss. Ever since that fateful day, Textrion has been hunting Terrox across the galaxy, consumed by his quest for vengeance. What Terrox doesn't know is that the man now fighting alongside galactic forces is the same one tracking his every move, waiting for the perfect moment to strike. The shared history between Textrion and Terrox is one of tragedy and misunderstanding, but neither side is aware of the full story. Textrion’s vendetta has blinded him, making Terrox his singular obsession. Their inevitable confrontation could change the fate of both men, but whether it ends in revenge or revelation remains to be seen.",
+  "enemies": [
+    {
+      "name": "Terrox",
+      "contract": "kQAaDcI8KuvXZppV41eyC92lS3mwsikm4ItDqlaPo1qDXtNs"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Elite Earth Counter-Terrorist"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Tactical Mastery and Stealth"
+    },
+    {
+      "trait_type": "Objective",
+      "value": "Hunting Terrox"
+    },
+    {
+      "trait_type": "Shared History",
+      "value": "Unresolved Vendetta with Terrox"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Driven by Vengeance"
+    },
+    {
+      "trait_type": "Connection",
+      "value": "Terrox"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXkRWJ1myonCmLXasZduwbXLWNfRTujWXS8Dj7bJaZWMi",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXkRWJ1myonCmLXasZduwbXLWNfRTujWXS8Dj7bJaZWMi"
+}
