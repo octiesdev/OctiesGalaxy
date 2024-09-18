@@ -3,12 +3,8 @@
   "description": "Harrinox, once a student at Hogwarts, discovered an ancient book that led him to the distant Octies galaxy. During a magical experiment, he accidentally opened a portal that transported him to this galaxy, where he met Octies and Zombus. Learning to combine his magical abilities with the advanced technologies of the Neophidian civilization, Harrinox became a key ally in their quest to protect the galaxy. His magic, enhanced by Neophidian knowledge, makes him a powerful force in the universe.",
   "friends": [
     {
-      "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
-    },
-    {
       "name": "Zombus",
-      "contract": "kQBuEHcLucZ7mG-lo0k348aJRcEex_hHpUeXzu06w-gp0ILR"
+      "contract": "EQAbZodro5NAfXyGtCcmoQyQ8Tatj15G3N0lC-y22mqJIIg-"
     }
   ],
   "attributes": [
@@ -43,10 +39,6 @@
     {
       "trait_type": "Regeneration",
       "value": "Enhanced by Magic"
-    },
-    {
-      "trait_type": "Connection",
-      "value": "Octies and Zombus"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPrHLi9Lcy8YykEJcP2T3APM4tAk2Uf4Qpu7zkFAQwU8e",
