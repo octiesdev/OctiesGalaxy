@@ -1,10 +1,10 @@
 {
   "name": "Enshtedian",
-  "description": "Enshtein, a legendary scientist and theorist, is said to have been the first human to evolve into a Neophidian using advanced technologies and anthropogenesis, possibly giving rise to the entire Octies civilization. His groundbreaking research into the fusion of quantum technology and magic revolutionized the way beings in the galaxy understood reality, allowing them to manipulate space, time, and energy at will. But beyond his monumental discoveries, Enshtein harbored a deep fascination with Octies, the first Neophidian to fully embody the perfect fusion of science and magic. Some speculate that Enshtein not only mentored Octies, but viewed him as his ultimate creation — the living proof that his theories on evolution and Neophidian power were correct. This mysterious bond between them runs deep, and many believe that Enshtein's influence over Octies extends far beyond mentorship. Despite the passage of countless eons, Enshtein continues to watch over Octies from the shadows, guiding him towards even greater power, while remaining a figure of awe and reverence across the galaxy.",
+  "description": "Enshtein, a legendary scientist and theorist, is said to have been the first human to evolve into a Neophidian using advanced technologies and anthropogenesis, possibly giving rise to the entire Octies civilization. His groundbreaking research into the fusion of quantum technology and magic revolutionized the way beings in the galaxy understood reality, allowing them to manipulate space, time, and energy at will. Beyond his monumental discoveries, Enshtein harbored a deep fascination with Octies, the first Neophidian to fully embody the perfect fusion of science and magic.",
   "friends": [
     {
       "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+      "contract": "EQCtqJuJhw34D2XJy3_lilJqgX0LQ4sPLCYIr-MOnu4vbP5r"
     }
   ],
   "attributes": [
@@ -39,10 +39,6 @@
     {
       "trait_type": "Regeneration",
       "value": "Immortality (Rumored)"
-    },
-    {
-      "trait_type": "Connection",
-      "value": "Octies and Galaxy"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmWoUeZ3LSWXVwQyBsKJoAAXCrFLNNcQM8QXPERfmtkVkq",
