@@ -1,14 +1,10 @@
 {
   "name": "Terrox",
-  "description": "Terrox, once a notorious mercenary feared across the war-torn planets of the Octies galaxy, lived a life fueled by conflict and survival. His reputation for ruthlessness and tactical brilliance earned him many enemies and few allies. During a high-stakes mission, Terrox stumbled upon an ancient Neophidian facility hidden deep beneath the surface of a barren planet. There, he discovered powerful Neophidian technology that forever changed his body and mind. The technology enhanced his physical abilities, granting him unmatched stealth and control over energy fields, but it also fractured his psyche, intensifying his aggression and leaving him emotionally unstable. Initially, Terrox used his newfound powers to further his mercenary career, clashing with Octies and Zombus during a critical battle over a key strategic point. Though they fought on opposing sides, Octies saw potential in Terrox’s abilities and offered him a chance to align with their mission to protect the galaxy. Reluctantly, Terrox agreed, but his loyalty remains in question. His dark past, combined with his volatile temperament and uncontrollable rage, make him a dangerous ally — one who could easily revert to his old ways if provoked. Despite this, his unmatched combat skills and ability to manipulate energy fields are invaluable assets in their fight against galactic threats.",
+  "description": "Terrox, once a notorious mercenary feared across the war-torn planets of the Octies galaxy, lived a life fueled by conflict and survival. His reputation for ruthlessness and tactical brilliance earned him many enemies and few allies. During a high-stakes mission, Terrox stumbled upon an ancient Neophidian facility hidden deep beneath the surface of a barren planet. There, he discovered powerful Neophidian technology that forever changed his body and mind. Initially, Terrox used his newfound powers to further his mercenary career, clashing with Octies and Zombus during a critical battle over a key strategic point. Though they fought on opposing sides, Octies saw potential in Terrox’s abilities and offered him a chance to align with their mission to protect the galaxy.",
   "friends": [
     {
-      "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
-    },
-    {
       "name": "Zombus",
-      "contract": "kQBuEHcLucZ7mG-lo0k348aJRcEex_hHpUeXzu06w-gp0ILR"
+      "contract": "EQAbZodro5NAfXyGtCcmoQyQ8Tatj15G3N0lC-y22mqJIIg-"
     }
   ],
   "attributes": [
@@ -43,10 +39,6 @@
     {
       "trait_type": "Regeneration",
       "value": "Enhanced Healing"
-    },
-    {
-      "trait_type": "Connection",
-      "value": "Octies and Zombus"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmQk5ptzyDLsARGifSytosVDHfVRrPtWbqJmMwUGdEexMR",
