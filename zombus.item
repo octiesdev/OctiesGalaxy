@@ -3,12 +3,8 @@
   "description": "Zombus was the result of a failed regeneration experiment intended to make him immortal. However, a malfunction in nanotechnology caused his body to decay, turning him into a half-zombie while preserving his consciousness and intellect. Despite his grim state, Zombus gained new abilities: defective regeneration, control over nanoparasites, and a connection with the dead. He met Octies when both were sent to the past to prevent a catastrophe. Instead of rejecting him, Octies helped Zombus adapt to his condition. Together, they colonized the Octies galaxy, combining Octies' wisdom with Zombus' dark resilience to create an unstoppable force.",
   "friends": [
     {
-      "name": "Pavduros",
-      "contract": "kQAQkUqrdNi5iOBypeGHGncqwHkBWl8p__PJZE_WSC6rLhrT"
-    },
-    {
       "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+      "contract": "EQCtqJuJhw34D2XJy3_lilJqgX0LQ4sPLCYIr-MOnu4vbP5r"
     }
   ],
   "attributes": [
@@ -43,10 +39,6 @@
     {
       "trait_type": "Regeneration",
       "value": "Defective Regeneration"
-    },
-    {
-      "trait_type": "Connection",
-      "value": "Dead Spirits"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmWVNDW4egHkYBHrpHtTjM7Ev9YYgXTmpWif5DLZNgNUPY",
