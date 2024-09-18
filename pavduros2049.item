@@ -4,11 +4,7 @@
   "friends": [
     {
       "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
-    },
-    {
-      "name": "Zombus",
-      "contract": "kQBuEHcLucZ7mG-lo0k348aJRcEex_hHpUeXzu06w-gp0ILR"
+      "contract": "EQCtqJuJhw34D2XJy3_lilJqgX0LQ4sPLCYIr-MOnu4vbP5r"
     }
   ],
   "attributes": [
@@ -29,12 +25,12 @@
       "value": "Earth"
     },
     {
-      "trait_type": "Event",
-      "value": "Token2049 Summit"
+      "trait_type": "Age",
+      "value": "33 years"
     },
     {
-      "trait_type": "Emotional Aspect",
-      "value": "Courage and Vision"
+      "trait_type": "Event",
+      "value": "Token2049 Summit"
     },
     {
       "trait_type": "Nanotechnology",
@@ -43,10 +39,6 @@
     {
       "trait_type": "Regeneration",
       "value": "Enhanced Mental Clarity"
-    },
-    {
-      "trait_type": "Connection",
-      "value": "Pavduros"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmRTGcvumgksHJLLFZvJVwfPbbQZFR1zFfyX2fLVPStSJY",
