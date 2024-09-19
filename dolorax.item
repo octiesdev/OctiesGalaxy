@@ -1,0 +1,40 @@
+{
+  "name": "Dolorax",
+  "description": "Dolorax, once known for his optimism and drive for peace, was forever changed after a tragic loss during a mission in the Octies Galaxy. He lost his family and friends due to one of Joknax's failed experiments, which deeply scarred his soul. Although filled with sadness, Dolorax found purpose in helping others, striving to prevent the same tragedy from happening again. His wisdom and compassion make him an important ally, though he struggles to trust and let light back into his life. He assists Octies in the fight for peace across the galaxy while working through his own emotional wounds, hoping to find peace one day.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Survivor"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Empathy and Emotional Insight"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Personal Tragedy"
+    },
+    {
+      "trait_type": "Age",
+      "value": "35 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Deep Sadness and Compassion"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Emotional Healing Nanites"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Slow Emotional Recovery"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPEp42JC3pRfrL2ocUjHZpuNy7T9KkRRvE8138yVYx7jA",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPEp42JC3pRfrL2ocUjHZpuNy7T9KkRRvE8138yVYx7jA"
+}
