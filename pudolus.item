@@ -1,0 +1,40 @@
+{
+  "name": "Pudolus",
+  "description": "Pudolus, an eccentric figure in the Octies Galaxy, is known for his unpredictable nature and raw strength. Despite his intimidating appearance, Pudolus has a deep passion for art and self-expression, often found painting murals or crafting sculptures in the middle of battle-torn worlds. His chaotic energy makes him a wild card in any situation, and while he may seem impulsive, Pudolus has a strategic mind, making him a powerful ally in the defense of the galaxy. His clothing choices are as bold as his personality, with his iconic pink sweater serving as a symbol of his refusal to conform. Though others often underestimate him, Pudolus always finds a way to surprise both allies and enemies alike.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Rebel"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Unpredictable Chaos and Creativity"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Street Artist from Octies"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Unpredictable and Artistic"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Energy Manipulation Tools"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Fast Recovery"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmfBLuwj6QTfa4zoWXS7SMrPk6zJX4qMznKWK6XgUkW8FK",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmfBLuwj6QTfa4zoWXS7SMrPk6zJX4qMznKWK6XgUkW8FK"
+}
