@@ -4,26 +4,26 @@
   "friends": [
     {
       "name": "Pavduros",
-      "contract": "kQAQkUqrdNi5iOBypeGHGncqwHkBWl8p__PJZE_WSC6rLhrT"
+      "contract": "EQC4vShl5VdJuZZvXCIbff4VJ1AGBoxHAa0aqQ4ixEu0YTIG"
     },
     {
       "name": "Pavduros 2049",
-      "contract": "kQDNKr2f5VmXFbKqBAiHuW_NBpy2KBxMD8QOjvhIrIBqkwjD"
+      "contract": "EQBVcak_hL3B7BYZNAtogBXLMe-vMxwoCfDudF2ADIKnTf1d"
     },
     {
       "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+      "contract": "EQCtqJuJhw34D2XJy3_lilJqgX0LQ4sPLCYIr-MOnu4vbP5r"
     }
   ],
   "enemies": [
     {
       "name": "Gopnax",
-      "contract": "kQCUmBIyTjsxXPEYMSKfeyAmHMpoiafhTVP-Laok8pE2-RnR"
+      "contract": "EQBgT-sB12dstpasYRW5A1iwu8sbtrknRJyRKzz1rS6KepvI"
     }
   ],
   "attributes": [
     {
-      "trait_type": "Origin",
+      "trait_type": "Anthropogenesis",
       "value": "Neophidian Programmer"
     },
     {
@@ -35,6 +35,10 @@
       "value": "Cybernetic Connection"
     },
     {
+      "trait_type": "Origin",
+      "value": "Neophidian Programmer"
+    },
+    {
       "trait_type": "Age",
       "value": "Unknown"
     },
@@ -43,8 +47,12 @@
       "value": "Focused and Analytical"
     },
     {
-      "trait_type": "Connection",
-      "value": "Pavduros, Pavduros 2049, and Earth"
+      "trait_type": "Nanotechnology",
+      "value": "Quantum Data Processing"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qma8KkWm3nb46oMnRQkE7BGJUVXGxigg7meS5tPVcR3zpv",
