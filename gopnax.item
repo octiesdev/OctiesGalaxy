@@ -4,37 +4,41 @@
   "enemies": [
     {
       "name": "Joknax",
-      "contract": "kQCJcJ5ONC1IuePGB05Eu_hIttukZmBxSeYebAQMy3JfoxjV"
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
     }
   ],
   "attributes": [
     {
-      "trait_type": "Origin",
-      "value": "Underdeveloped Planet"
+      "trait_type": "Anthropogenesis",
+      "value": "Streetwise Human Fighter"
     },
     {
       "trait_type": "Special Ability",
-      "value": "Brute Strength and Street Smarts"
+      "value": "Brute Strength and Street Tactics"
     },
     {
       "trait_type": "Metamorphism",
       "value": "None"
     },
     {
+      "trait_type": "Origin",
+      "value": "Urban Survivalist"
+    },
+    {
       "trait_type": "Age",
-      "value": "30 years"
+      "value": "35"
     },
     {
       "trait_type": "Emotional Aspect",
-      "value": "Ruthless and Unyielding"
+      "value": "Grit and Determination"
     },
     {
-      "trait_type": "Combat Style",
-      "value": "Street Fighting"
+      "trait_type": "Nanotechnology",
+      "value": "None"
     },
     {
-      "trait_type": "Connection",
-      "value": "Octies and Joknax"
+      "trait_type": "Regeneration",
+      "value": "None"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmepniQZ6FRoAx2gdf5VRqop8ZXg5Z4254WAGCPSTG9RQ8",
