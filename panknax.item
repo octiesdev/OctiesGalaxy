@@ -1,0 +1,46 @@
+{
+  "name": "Panknax",
+  "description": "Panknax, once a close friend of Gopnax, shared his rebellious spirit and love for chaos. Together, they ruled the streets of their home planet, causing havoc and asserting their dominance. However, after witnessing the destruction and suffering they brought to innocent lives, Panknax began to question his purpose. Unlike Gopnax, who thrived in chaos and power, Panknax sought to help rather than harm. Now, he fights alongside the defenders of the Octies Galaxy, using his underground knowledge and rebellious tactics for good. While his past and bond with Gopnax still haunt him, Panknax is determined to redeem himself and prevent the same destruction he once helped unleash.",
+  "enemies": [
+    {
+      "name": "Gopnax",
+      "contract": "EQBgT-sB12dstpasYRW5A1iwu8sbtrknRJyRKzz1rS6KepvI"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Reformed Rebel"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Underground Networks and Tactical Brilliance"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Street Leader"
+    },
+    {
+      "trait_type": "Age",
+      "value": "35 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Remorseful and Determined"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Mental Resilience"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmQ6gjNd2NmyVg2Yg6jyMk9emY3NWgxHf5Ba3vpkpnHKnn",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmQ6gjNd2NmyVg2Yg6jyMk9emY3NWgxHf5Ba3vpkpnHKnn"
+}
