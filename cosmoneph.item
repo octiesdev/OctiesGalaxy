@@ -1,0 +1,40 @@
+{
+  "name": "Cosmoneph",
+  "description": "Cosmoneph, once a proud cosmonaut from Earth, embarked on the most ambitious mission in human history: to explore the mysterious reaches of the Octies Galaxy. Upon landing on the planet Octies, his body was instantly transformed by Neophidian energy, turning him into a Neophidian while keeping his human mind intact. Now trapped in his new form, Cosmoneph dedicates his life to studying Neophidian biology, hoping to one day find a way to return to Earth. But the deeper his research goes, the more he realizes that his transformation may be irreversible. Torn between his lost humanity and the Neophidian civilization, Cosmoneph roams the galaxy, a being caught between two worlds.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Human-Neophidian Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Intergalactic Exploration and Research"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Irreversible Neophidian Transformation"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Cosmonaut from Earth"
+    },
+    {
+      "trait_type": "Age",
+      "value": "50 Earth Years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Longing and Determination"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmY7ui5vukGvXyL6YnXXmqyiYLRdXfmCwjt11Ye5Tjjokt",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmY7ui5vukGvXyL6YnXXmqyiYLRdXfmCwjt11Ye5Tjjokt"
+}
