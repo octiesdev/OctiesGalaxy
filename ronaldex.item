@@ -1,0 +1,40 @@
+{
+  "name": "Ronaldex",
+  "description": "Ronaldex, a legendary sports icon in the Octies Galaxy, is a symbol of unity and competition through intergalactic sports. Hailing from the planet Trino, home to the highly athletic Trinarcian race, Ronaldex's unparalleled athleticism and leadership have made him a star on sports arenas across the galaxy. Inspired by ancient Earth traditions, he uses his influence to organize grand tournaments that prevent wars and bring different species together. With Neophidian-enhanced speed and gravitational control, Ronaldex leads his team, the 'Star Wings,' in an effort to keep peace and harmony in the galaxy.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Enhanced Athlete"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Gravitational Control and Enhanced Speed"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Trino, Star Athlete"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Unity and Determination"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Neophidian Enhancements"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmRdM174yrTPivoSTVwSeeADCaKf5sKxcHUZtEJ5VwSRBQ",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmRdM174yrTPivoSTVwSeeADCaKf5sKxcHUZtEJ5VwSRBQ"
+}
