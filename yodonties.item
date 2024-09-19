@@ -4,19 +4,19 @@
   "enemies": [
     {
       "name": "Joknax",
-      "contract": "kQCJcJ5ONC1IuePGB05Eu_hIttukZmBxSeYebAQMy3JfoxjV"
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
     }
   ],
   "friends": [
     {
       "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+      "contract": "EQCtqJuJhw34D2XJy3_lilJqgX0LQ4sPLCYIr-MOnu4vbP5r"
     }
   ],
   "attributes": [
     {
-      "trait_type": "Origin",
-      "value": "Ancient Master"
+      "trait_type": "Anthropogenesis",
+      "value": "Ancient Energy Master"
     },
     {
       "trait_type": "Special Ability",
@@ -27,6 +27,10 @@
       "value": "None"
     },
     {
+      "trait_type": "Origin",
+      "value": "Ancient Master"
+    },
+    {
       "trait_type": "Age",
       "value": "Thousands of years"
     },
@@ -35,12 +39,12 @@
       "value": "Wisdom and Determination"
     },
     {
-      "trait_type": "Combat Style",
-      "value": "Force and Energy Manipulation"
+      "trait_type": "Nanotechnology",
+      "value": "None"
     },
     {
-      "trait_type": "Connection",
-      "value": "Octies and Joknax"
+      "trait_type": "Regeneration",
+      "value": "None"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmf6ahDByxF2vNYeZ9Cy3kEjxxtZpdVw4PGrHjJteSgoJe",
