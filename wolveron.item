@@ -4,11 +4,11 @@
   "friends": [
     {
       "name": "Octies",
-      "contract": "kQCXR9o7z5LkNvTjfXg3nqbyV1EPlJKjI1-SAXu9oVABEYET"
+      "contract": "EQCtqJuJhw34D2XJy3_lilJqgX0LQ4sPLCYIr-MOnu4vbP5r"
     },
     {
       "name": "Neopool",
-      "contract": "kQBi4DOfu6NjAyEMY_fbynrnBNoOVFcPJhOPldRbwDLDHxbg"
+      "contract": "EQB25bX0owt6E8MJfqgRATyiYkLPNuW9xYIT-C3n6rUUDVWi"
     }
   ],
   "attributes": [
@@ -43,10 +43,6 @@
     {
       "trait_type": "Regeneration",
       "value": "Unmatched Healing Factor"
-    },
-    {
-      "trait_type": "Connection",
-      "value": "Octies and Neopool"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmewDhB54GhqB74Byj3UvAALYWBdSzMpnY4CTL64M28BhJ",
