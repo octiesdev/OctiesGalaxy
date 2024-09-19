@@ -4,12 +4,12 @@
   "enemies": [
     {
       "name": "Terrox",
-      "contract": "kQAaDcI8KuvXZppV41eyC92lS3mwsikm4ItDqlaPo1qDXtNs"
+      "contract": "EQBxRiWJvT9Pwc2ZWWgg9FhJl7sCnSeybxq_XqbfRdxsgLIQ"
     }
   ],
   "attributes": [
     {
-      "trait_type": "Origin",
+      "trait_type": "Anthropogenesis",
       "value": "Elite Earth Counter-Terrorist"
     },
     {
@@ -17,20 +17,28 @@
       "value": "Tactical Mastery and Stealth"
     },
     {
-      "trait_type": "Objective",
-      "value": "Hunting Terrox"
+      "trait_type": "Metamorphism",
+      "value": "None"
     },
     {
-      "trait_type": "Shared History",
-      "value": "Unresolved Vendetta with Terrox"
+      "trait_type": "Origin",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Age",
+      "value": "35 years"
     },
     {
       "trait_type": "Emotional Aspect",
       "value": "Driven by Vengeance"
     },
     {
-      "trait_type": "Connection",
-      "value": "Terrox"
+      "trait_type": "Nanotechnology",
+      "value": "Advanced Tactical Gear"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
     }
   ],
   "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXkRWJ1myonCmLXasZduwbXLWNfRTujWXS8Dj7bJaZWMi",
