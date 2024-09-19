@@ -1,0 +1,46 @@
+{
+  "name": "Gangstex",
+  "description": "Gangstex, the younger brother of the infamous Gopnax, grew up in his brother's shadow, absorbing his strength and desire for dominance. However, unlike Gopnax, Gangstex was more strategic, using his charm and street skills not just to create chaos but to establish control over underground networks in the Octies Galaxy. Despite their different approaches, the brothers share a strong bond and mutual support. Gangstex secretly sought to step out of his brother’s shadow, forming a covert alliance with Joknax to advance his own ambitions. Now, Gangstex walks a fine line between loyalty to his brother and his own ambitions, balancing between the potential for destruction and his desire for power. Whether he and Gopnax remain allies or become rivals will determine the fate of their shared brotherhood.",
+  "friends": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Street Mastermind"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Charisma and Strategic Thinking"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Technological Manipulation"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Underworld Networks of Octies"
+    },
+    {
+      "trait_type": "Age",
+      "value": "25 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Ambition and Loyalty"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Advanced Tactical Tools"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Standard Neophidian Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmYHDufcv1xP396TAeMcAiTajvTYKZ96WMUWWgvhh29U1F",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmYHDufcv1xP396TAeMcAiTajvTYKZ96WMUWWgvhh29U1F"
+}
