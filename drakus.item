@@ -1,0 +1,40 @@
+{
+  "name": "Drakus",
+  "description": "Drakus, once a humble traveler, wandered the outer planets of the Octies Galaxy, searching for purpose. His intellect and problem-solving skills made him a respected mediator between galactic factions. During a peace negotiation on a barren moon, he accidentally activated ancient Neophidian technology, fusing it with his body. This transformation granted him enhanced abilities, though it also burdened him with the moral dilemma of using power to achieve peace. Now, Drakus travels the galaxy as a symbol of balance, fighting to maintain harmony in a universe threatened by chaos. Though his abilities are unmatched, he still struggles to reconcile his new power with his deep-rooted beliefs in nonviolence.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Enhanced Mediator"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Mediation and Strategic Diplomacy"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Neophidian Fusion"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Outer Planets of the Octies Galaxy"
+    },
+    {
+      "trait_type": "Age",
+      "value": "38 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Calm and Resolute"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Adaptive Enhancement"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Mental Clarity and Physical Agility"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmcBGjZUmMRiwW2Vs3itP3cT62jd3q9e6SNfjm14Wmh1WC",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmcBGjZUmMRiwW2Vs3itP3cT62jd3q9e6SNfjm14Wmh1WC"
+}
