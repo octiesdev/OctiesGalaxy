@@ -1,0 +1,40 @@
+{
+  "name": "Vortonax",
+  "description": "Vortonax is one of the most powerful beings in the Octies Galaxy, gifted with immense strength and the ability to manipulate energy. Born into an elite Neophidian family, he was trained from a young age in combat and strategic thinking. Thanks to his natural charisma and strength, Vortonax quickly rose to the top of the military and political hierarchy of his race. However, his ambitions extend far beyond his homeworld. Obsessed with the idea of absolute control over the galaxy, Vortonax believes only he can bring true order and peace. While he presents himself as a hero saving worlds from chaos, his true intentions involve manipulating events to further his power. Despite his apparent nobility, many suspect that Vortonax hides his true motivations, balancing on the edge between heroism and tyranny.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Elite"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Energy Manipulation"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Neophidian Royalty"
+    },
+    {
+      "trait_type": "Age",
+      "value": "40 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Ambition and Control"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Neophidian Military Enhancements"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Enhanced Healing Factor"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZZHL4YadD7Y1iQcULTsprhuENNsKWnuFhyjHXZ54dxbs",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZZHL4YadD7Y1iQcULTsprhuENNsKWnuFhyjHXZ54dxbs"
+}
