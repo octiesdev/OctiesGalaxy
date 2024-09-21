@@ -1,0 +1,46 @@
+{
+  "name": "Oblivax",
+  "description": "Oblivax is one of the most mysterious and enigmatic figures in the Octies Galaxy. His real identity has long been erased, his face distorted by a powerful Neophidian curse that wipes away all traces of his past. He was once a great warrior, known across the galaxy for his unmatched strength and tactical brilliance. However, after a cataclysmic encounter with Joknax, Oblivax’s mind and memories were shattered. His face now bears the mark of this tragic confrontation, a visual reminder of the void that consumes him. Though he has no recollection of his former self, Oblivax roams the galaxy, haunted by fleeting images of his past. Drawn to battles and conflicts, Oblivax’s skills make him a feared figure, both ally and threat to the galaxy's forces. Whether he will regain his lost identity or remain forever lost to the void remains to be seen.",
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Enhanced Warrior"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Unmatched Combat and Tactical Skills"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Cursed Face"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Unknown, Lost to the Void"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Haunted by the Past"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Slow Recovery Due to Curse"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmX9RZEenVSze9fDahEqsDtFte4jkZktWoW5fXqFWXHLCp",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmX9RZEenVSze9fDahEqsDtFte4jkZktWoW5fXqFWXHLCp"
+}
