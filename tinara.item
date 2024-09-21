@@ -1,0 +1,40 @@
+{
+  "name": "Tinara",
+  "description": "Tinara, the first woman in the Octies Galaxy, was once a simple homemaker on her peaceful home planet, where she cared for her family and community. When her world was destroyed in a battle over Neophidian technology, Tinara lost everything she held dear. In search of a new purpose, she discovered her innate abilities in healing and caregiving that extended far beyond the normal. Her natural talent for medical sciences and energy healing was noticed by Octies, who helped her refine these powers. Now working as a doctor in intergalactic medical centers, Tinara assists in restoring the health of the galaxy's inhabitants after battles and crises. Though quiet, Tinara is a powerful force for good, aiming to restore balance and peace to devastated civilizations. She dreams of one day finding a new home, but knows her place is now among those she can heal.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Healer"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Energy Healing and Medical Expertise"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Peaceful Planet"
+    },
+    {
+      "trait_type": "Age",
+      "value": "30 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Compassion and Resilience"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Healing Enhancer"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Enhanced Healing Abilities"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmev5io7LjyDXCsEiyGnQ2vaKk1F7eKvi9Q15CiDWoVPVN",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/Qmev5io7LjyDXCsEiyGnQ2vaKk1F7eKvi9Q15CiDWoVPVN"
+}
