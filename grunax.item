@@ -1,0 +1,40 @@
+{
+  "name": "Grunax",
+  "description": "Grunax is one of the most elusive and cunning figures in the Octies Galaxy. Born on a cold and harsh planet, where survival depends on wit and skill, Grunax was known for his sharp mind and problem-solving abilities from a young age. His primary weapon is his tongue, which he uses to persuade, manipulate, and forge alliances with some of the galaxy's most dangerous inhabitants. Although not physically powerful, Grunax’s talents for convincing, trickery, and infiltrating closed circles make him an invaluable asset in secret operations. He often works under contracts for Joknax and Gopnax, but never fully trusts anyone. Always acting in his own interest, he may help the galaxy's heroes or betray them for a better deal.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Manipulator"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Master of Persuasion and Deception"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Frozen Wasteland Planet"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Cunning and Reserved"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZS2aTz9mpatejLcVDtJburiDdCnYtCuoPoe2qaC7Fv6p",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZS2aTz9mpatejLcVDtJburiDdCnYtCuoPoe2qaC7Fv6p"
+}
