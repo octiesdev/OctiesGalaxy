@@ -1,0 +1,46 @@
+{
+  "name": "Spictius",
+  "description": "Spictius, once a brilliant bioengineer, was transformed after an experiment involving spider DNA and Neophidian energy went wrong. Now possessing incredible spider-like abilities, he uses his newfound powers to protect the galaxy from criminal organizations and rogue scientific experiments. Able to crawl on walls, sense danger, and shoot energy webs, Spictius is a formidable ally. However, his inner conflict remains as he seeks a way to reverse his transformation while still fulfilling his duty to the galaxy. His main adversary is Joknax, who seeks to harness Spictius's powers for his own dark purposes.",
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Spider Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Wall Crawling and Energy Webs"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Spider Abilities"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Failed Bioengineering Experiment"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Moral Conflict and Responsibility"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Standard Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmbquDXDRPFg7gRkxATf3pHYksrgujfToFEydkHfGANXhM",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmbquDXDRPFg7gRkxATf3pHYksrgujfToFEydkHfGANXhM"
+}
