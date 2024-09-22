@@ -1,0 +1,46 @@
+{
+  "name": "Ductos",
+  "description": "Ductos, once a simple mechanic and tinkerer, became one of the most influential underground technicians in the Octies Galaxy after discovering an ancient Neophidian device. This device allows him to control and interact with any technology remotely through his thoughts. Now, Ductos uses his newfound abilities to solve problems from the shadows, avoiding direct conflict but always being in the heart of galactic conspiracies. His relationship with Codeus is complex: while Codeus seeks to bring Ductos into his vast digital network, Ductos values his independence and prefers to stay in the background, using his skills for his own ends. Their tension-filled alliance could shape the future of galactic technology.",
+  "friends": [
+    {
+      "name": "Codeus",
+      "contract": "EQA9Yuo1ltj9XqhksRSlNhzHSu3G617_E1KZ50Q-XrH1wPLk"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Technician"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Remote Tech Control"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Underground Mechanic"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Independent and Strategic"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Mind-Linked Device"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmU5ss1UC8fUM4Eaz8dBr9dycKmrX27Wpad7PGkWVaFU5B",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmU5ss1UC8fUM4Eaz8dBr9dycKmrX27Wpad7PGkWVaFU5B"
+}
