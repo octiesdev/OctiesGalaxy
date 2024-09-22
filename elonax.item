@@ -1,0 +1,46 @@
+{
+  "name": "Elonax",
+  "description": "Elonax, a visionary technologist and inventor, is one of the most innovative minds in the Octies Galaxy. Before encountering the Neophidians, Elonax made history by creating the first fully electric starship designed for long-distance space travel, with the goal of colonizing Mars. His inventions didn't stop there; he developed an advanced AI system, pioneered a satellite internet network, and introduced the first cybernetic truck. After his journey to the Octies Galaxy, Elonax’s mind was further enhanced by Neophidian technology, allowing him to push the boundaries of innovation even further. Now, he works to unite the galaxy with his inventions, bridging the gap between distant planets and transforming the way civilizations operate. Despite his success, Elonax faces fierce opposition from figures like Mellstrox, who believe wealth is the ultimate power. Elonax, however, is determined to show that innovation and progress can outshine mere riches.",
+  "enemies": [
+    {
+      "name": "Mellstrox",
+      "contract": "EQB0eToQOUHzQnbhc5s1VHbpxZad7BNaTuuy77OFsGy3QmWU"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Enhanced Technologist"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Master of Innovation and Invention"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Cybernetic Enhancements"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Visionary Technologist from Earth"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Driven by Progress"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Advanced AI and Cybernetics"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Enhanced Cognitive Abilities"
+    }
+  ],
+  "image": "https://link_to_elonax_image",
+  "content_url": "https://link_to_elonax_content"
+}
