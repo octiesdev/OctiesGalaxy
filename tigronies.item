@@ -1,0 +1,46 @@
+{
+  "name": "Tigronies",
+  "description": "Tigronies is one of the rarest and most unique hybrids in the Octies Galaxy. Born from an experiment merging ancient animal genetics with Neophidian technology, his appearance is a fusion of a powerful tiger and a Neophidian, making him a formidable and unpredictable figure. Despite his wild exterior, Tigronies is a brilliant and strategic warrior, capable of incredible tactical maneuvers. He spent most of his life in isolation, guarding the mysterious jungles of an abandoned planet. However, upon learning that the Octies Galaxy was in danger due to Joknax's experiments, Tigronies emerged from the shadows to join the fight for the galaxy's future. His predator instincts and ability to harness natural forces make him a valuable ally, though his solitary nature and distrust of others keep him in constant internal conflict between being a predator and a hero.",
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Animal Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Predator Instincts and Tactical Brilliance"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Hybrid Tiger Form"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Genetic Experiment"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Isolation and Internal Conflict"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Enhanced Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmShMcsNWr6wGJsrxtNVLbDZue6aEZwsgYRnt5A44ffBHi",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmShMcsNWr6wGJsrxtNVLbDZue6aEZwsgYRnt5A44ffBHi"
+}
