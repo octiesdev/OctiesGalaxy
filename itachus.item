@@ -1,0 +1,46 @@
+{
+  "name": "Itachus",
+  "description": "Itachus, once a legendary warrior of the Neophidian order, betrayed his clan to prevent a devastating civil war. Now burdened by guilt, he roams the galaxy with Oblivax, seeking redemption while mastering his powers of time manipulation and illusions. Together, they face the challenges of the Octies Galaxy while haunted by their past.",
+  "friends": [
+    {
+      "name": "Oblivax",
+      "contract": "EQAbwpAYHUCHZ9VvTE73x77e-6inF-Kf26NSB_YfeN5YrUbP"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Illusionist"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Time Manipulation and Illusions"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Mind Fracture"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Neophidian Guardian"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Guilt and Redemption"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Illusion Amplifier"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Mental Resilience"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZ8CH6UKuiafTE4c5cnSaNpbh2YLpewCor8EJsTHYEmui",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmZ8CH6UKuiafTE4c5cnSaNpbh2YLpewCor8EJsTHYEmui"
+}
