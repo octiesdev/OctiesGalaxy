@@ -1,0 +1,46 @@
+{
+  "name": "Gridies",
+  "description": "Gridies, born on a peaceful art-filled planet, lived a life of grace and culture until she met Grunax, a cunning manipulator from the shadows of the galaxy. Despite their differences, they formed a deep and secret bond, navigating the dangers of the Octies Galaxy together. While Gridies tries to guide Grunax towards light, their love is surrounded by intrigue and peril. Now living a double life, Gridies is both a symbol of beauty and the keeper of one of the most secret loves in the galaxy.",
+  "lovers": [
+    {
+      "name": "Grunax",
+      "contract": "EQAhFiko-UMXUT7_VQc2AJ3VFfWcgLj9-w28oYByayP5355y"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Peaceful Artisan"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Emotional Healing and Influence"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Cultural Planet"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Compassion and Love"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmP561y5mymYRnYqD8cHBFDN87hMwdeUTWHjmU8CTxWbgT",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmP561y5mymYRnYqD8cHBFDN87hMwdeUTWHjmU8CTxWbgT"
+}
