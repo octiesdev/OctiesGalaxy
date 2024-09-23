@@ -1,0 +1,56 @@
+{
+  "name": "Cirxon",
+  "description": "Cirxon, a visionary technologist, created the Neural Nexus, a galaxy-wide communication system designed to unite distant civilizations. While his invention holds the potential to reduce conflict across the Octies Galaxy, it has also attracted dangerous figures like Mellstrox and Joknax, who seek to exploit it. Now, Cirxon works with Codeus to protect the Nexus, knowing that the future of the galaxy rests in his hands.",
+  "friends": [
+    {
+      "name": "Codeus",
+      "contract": "EQA9Yuo1ltj9XqhksRSlNhzHSu3G617_E1KZ50Q-XrH1wPLk"
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Mellstrox",
+      "contract": "EQB0eToQOUHzQnbhc5s1VHbpxZad7BNaTuuy77OFsGy3QmWU"
+    },
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Technologist"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creator of the Neural Nexus"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Data Integration"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Neophidian Inventor"
+    },
+    {
+      "trait_type": "Age",
+      "value": "35 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Calm and Reflective"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Enhanced Network Security"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Mental Resilience"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXxPpZ9a6D2Ji4VTdUJSSnBso6zpj8roQQZCiS8KJTuoZ",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXxPpZ9a6D2Ji4VTdUJSSnBso6zpj8roQQZCiS8KJTuoZ"
+}
