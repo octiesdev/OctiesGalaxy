@@ -1,0 +1,40 @@
+{
+  "name": "Masknax",
+  "description": "Masknax is a mysterious and enigmatic figure in the Octies Galaxy, known as a fighter for freedom and justice in the shadows of technology. His true identity remains hidden behind a mask, which has become a symbol of resistance. Witnessing the destruction of his home planet at the hands of corporate empires like those controlled by Mellstrox, Masknax vowed to bring justice to the galaxy. A master infiltrator, strategist, and tech virtuoso, he operates within digital networks and secret organizations, helping Codeus in the fight against oppression. Despite his noble goals, Masknax always follows his own moral code, staying in the shadows and trusting no one.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Rebel"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Digital Infiltration and Tech Mastery"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Survivor of a Destroyed Planet"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Driven by Justice"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Cybernetic Enhancements"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Standard Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUi6QJyM1JaSEohRWxmVgew5ZbmCuUkxnxmJeg7ASxNK4",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUi6QJyM1JaSEohRWxmVgew5ZbmCuUkxnxmJeg7ASxNK4"
+}
