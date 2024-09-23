@@ -1,0 +1,52 @@
+{
+  "name": "Stormnax",
+  "description": "Stormnax was once an ordinary soldier in the army of a powerful space emperor from a distant galaxy. He was part of a massive force, subjugating planets and crushing any resistance with cold efficiency. His life was a never-ending cycle of battles and orders, unquestioned. However, during a battle on the galaxy's edge, Stormnax encountered a mysterious Neophidian energy that changed him forever. This force awakened independent thought within him and broke the mind control implants that governed his actions. Realizing he had been just a pawn in the emperor's game, Stormnax rebelled against his past and escaped, hiding in the farthest reaches of the universe. Now, armed with incredible power and skill, he seeks a new path. Joining the resistance in the Octies Galaxy, Stormnax strives to correct his mistakes, protecting the planets he once destroyed. His confrontation with Joknax, who seeks to bring him back under control, is one of the defining battles of his new life. Hunted by his former comrades, Stormnax refuses to surrender, determined to restore balance and redeem his past.",
+  "friends": [
+    {
+      "name": "Codeus",
+      "contract": "EQA9Yuo1ltj9XqhksRSlNhzHSu3G617_E1KZ50Q-XrH1wPLk"
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Former Galactic Soldier"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Neophidian Power Awakening"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Mind Control Resistance"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Distant Galaxy Empire"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Redemption and Guilt"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Enhanced Combat Skills"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXinpsizip7DiZf3cb1JLTzkX14VsNyHnF7DYLqC98MdE",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmXinpsizip7DiZf3cb1JLTzkX14VsNyHnF7DYLqC98MdE"
+}
