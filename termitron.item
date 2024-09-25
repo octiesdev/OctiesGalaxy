@@ -1,0 +1,56 @@
+{
+  "name": "Termitron",
+  "description": "Termitron, once a fierce Neophidian soldier, was fatally injured in battle and brought back to life through advanced cybernetic technology. Now a half-machine, half-organic being, he serves as a powerful enforcer, keeping order in the Octies Galaxy. Though his cybernetic enhancements make him nearly invincible, fragments of his old self linger, causing inner turmoil as he questions his purpose.",
+  "friends": [
+    {
+      "name": "Codeus",
+      "contract": "EQA9Yuo1ltj9XqhksRSlNhzHSu3G617_E1KZ50Q-XrH1wPLk"
+    },
+    {
+      "name": "Cirxon",
+      "contract": "EQCBp45f-fbH_pqtylpUCOjKR8DG3OOZEoMWWBpvaHM75kTh"
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Cybernetic Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Unstoppable Combat Skills"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Cybernetic Body"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Neophidian Soldier"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Conflicted Logic and Emotion"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Advanced Cybernetic Systems"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Cybernetic Regeneration"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmbYc7NumWL5K3kBUgDjDzJCn2YimobhpyJRBLeDqE8p4Z",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmbYc7NumWL5K3kBUgDjDzJCn2YimobhpyJRBLeDqE8p4Z"
+}
