@@ -1,0 +1,52 @@
+{
+  "name": "Catanax",
+  "description": "Catanax, a hybrid of Neophidian and feline origin, was once a brilliant scientist named Anorax. After a failed experiment led by Joknax, Catanax's body and mind were fused with a wild feline creature. Now, he possesses the agility and instincts of a cat, combined with the intelligence of his former self. Despite the inner conflict between his rational mind and primal urges, Catanax remains a valuable ally, seeking to reverse his condition while using his unique abilities to protect the galaxy.",
+  "friends": [
+    {
+      "name": "Codeus",
+      "contract": "EQA9Yuo1ltj9XqhksRSlNhzHSu3G617_E1KZ50Q-XrH1wPLk"
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian-Feline Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Agility and Enhanced Senses"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Feline Transformation"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Failed Neophidian Experiment"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Torn Between Instinct and Intellect"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmNW2ETNWGbAJFK8S1RPSvAhzSuJqXxpSA46ojPRW9CS6j",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmNW2ETNWGbAJFK8S1RPSvAhzSuJqXxpSA46ojPRW9CS6j"
+}
