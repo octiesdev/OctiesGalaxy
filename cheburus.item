@@ -1,0 +1,46 @@
+{
+  "name": "Cheburus",
+  "description": "Cheburus, a small but remarkably clever creature from the jungle planet of Keronis, is known for his resourcefulness and sharp intellect. Despite his innocent appearance and love for fruits, especially the rare 'Orancia,' Cheburus plays a key role in protecting the balance of nature across the Octies Galaxy. His bond with Tinara, the healer, has made him an important ally in their efforts to restore peace. Though he prefers to avoid conflict, Cheburus uses his quick thinking and agility to outwit enemies and defend his home.",
+  "friends": [
+    {
+      "name": "Tinara",
+      "contract": "EQA33tVkCzEhBi7XvA8H5VXrYfnniEBhoXSRT6Ip4hseJlML"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Creature"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Resourcefulness and Plant Communication"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Jungle Planet Keronis"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Playful and Clever"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmNZrQhFmQ8dMruHtfCyjfQ8TPRLaP5hzV16xmo5qoztsT",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmNZrQhFmQ8dMruHtfCyjfQ8TPRLaP5hzV16xmo5qoztsT"
+}
