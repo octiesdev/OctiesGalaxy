@@ -1,0 +1,46 @@
+{
+  "name": "Rogulex",
+  "description": "Rogulex, the eccentric elder of the mountainous planet Vellon, is known for his wild appearance and carefree attitude. Once a respected leader, he now embraces a lifestyle of freedom, creativity, and indulgence. Beneath his colorful tattoos and golden teeth lies a mind as sharp as ever. Rogulex possesses a deep connection to the natural elements of his planet, which he uses to protect ancient knowledge from those who would misuse it. His playful rivalry with Grunax often puts him in the middle of galactic schemes, but his wisdom and unpredictability make him a valuable ally.",
+  "friends": [
+    {
+      "name": "Grunax",
+      "contract": "EQAhFiko-UMXUT7_VQc2AJ3VFfWcgLj9-w28oYByayP5355y"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Elder"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Elemental Manipulation and Ancient Knowledge"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Planet Vellon"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Playful but Wise"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmdawF6utNAhWLEZH3e2x6Tgg3sMcstZ9sYowJRRbEnBYk",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmdawF6utNAhWLEZH3e2x6Tgg3sMcstZ9sYowJRRbEnBYk"
+}
