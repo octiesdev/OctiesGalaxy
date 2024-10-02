@@ -1,0 +1,46 @@
+{
+  "name": "Cristiado",
+  "description": "Cristiado, the renowned Graviton Football star from the planet Portonix, is known for his unmatched speed, power, and athleticism. He became a galactic legend through his fierce rivalry with Messities, the star from Argentarion. Their competition fueled some of the most exciting matches in galactic history, but their rivalry took an unexpected turn when the Neophidian Influence began corrupting their sport. Now, Cristiado and Messities must put aside their differences to save Graviton Football and the Octies Galaxy from the destructive power of the Neophidians.",
+  "friends": [
+    {
+      "name": "Messities",
+      "contract": "EQCRmqvOurMVJZTsyRLwVZue4uDPln5pIfipV92pB6a_g-Za"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Portonix Athlete"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Unmatched Speed and Power"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Neophidian Power Enhancement"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Planet Portonix"
+    },
+    {
+      "trait_type": "Age",
+      "value": "33 Years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Competitive and Driven"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Neophidian Enhancement"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Advanced Recovery"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPyyhfMZCw9dpjZrMaVKjbgKckp1XD6ASsH6LYMubzTCF",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPyyhfMZCw9dpjZrMaVKjbgKckp1XD6ASsH6LYMubzTCF"
+}
