@@ -1,1 +1,18 @@
-
+{
+  "buttons": [
+    {
+      "label": "ELF-BOUREKAS",
+      "uri": "ELF-BOUREKAS"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Procces",
+      "value": "The second step"
+    }
+  ],
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUdQsm88dg2NwKG1JUweXQGoWkLzMUWrMiycaFhyBz8k6",
+  "description": "“Kneading Dough for Bread Baking” — an NFT depicting the crucial moment in breadmaking when ingredients are combined into a unified dough. This stage symbolizes the beginning of transforming raw materials into the final product, emphasizing the importance of skill and precision in the process. The NFT celebrates the art of creating perfect dough, ready for baking.",
+  "name": "Kneading the dough",
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmeczXEKuTxrMBQPJnizgKxkjzBYjQSPkmxSmZsMmJCR67"
+}
