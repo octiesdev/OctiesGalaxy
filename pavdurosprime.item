@@ -1,0 +1,40 @@
+{
+  "name": "Pavduros Prime",
+  "description": "Pavduros Prime is one of the many incarnations of Pavduros, the well-known hero and defender of the Octies Galaxy. After venturing into uncharted territories of space, he was transformed by ancient technologies and forces, becoming a more reserved, strategic, and analytical version of his former self. Pavduros Prime now works alone, delving into the mysteries of the universe while still fighting to protect the vulnerable. His deep connection with past incarnations allows him to harness their collective wisdom in his quest to preserve balance in the galaxy.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Hybrid"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Strategic Mind and Ancient Knowledge"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Transformed through Ancient Technology"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Incarnation of Pavduros"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Timeless"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Calm and Analytical"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Advanced Thought Processing"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Heightened Awareness"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmTbtKnZ34p62RmK4z9ds88pxQkvrjGC27ZbyEzwPdMUs6",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmTbtKnZ34p62RmK4z9ds88pxQkvrjGC27ZbyEzwPdMUs6"
+}
