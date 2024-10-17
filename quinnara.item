@@ -1,0 +1,46 @@
+{
+  "name": "Quinnara",
+  "description": "Etherax, once a leading innovator from Earth, was brought to the Octies Galaxy to implement his groundbreaking decentralized systems. His arrival led to a subtle yet intense rivalry with Pavduros, a powerful human-Neophidian hybrid who blends technology and magic. Despite their differences, both must work together to protect the galaxy's digital networks from an unknown threat. Their silent competition may determine the future of the galaxy's technological landscape.",
+  "relationships": [
+    {
+      "name": "Joknax",
+      "contract": "EQDJCauEKdT1MJJ4BTGEANyfmjgtI05ct6Gy-7ot3V_XLVnr"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Scientist"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Improvisation and Chaos"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Psychological Transformation"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Scientist Turned Chaotic Rebel"
+    },
+    {
+      "trait_type": "Age",
+      "value": "28 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Loyalty and Madness"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Basic Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmdjALJriw4AbdeT6kdmYw8yEDXdvAgDbeCwfEk7DEQaf6",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmdjALJriw4AbdeT6kdmYw8yEDXdvAgDbeCwfEk7DEQaf6"
+}
