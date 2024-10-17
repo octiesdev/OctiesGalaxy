@@ -1,0 +1,40 @@
+{
+  "name": "Dagoneth",
+  "description": "Dagoneth is a legendary fighter known across the Octies Galaxy for his unmatched combat skills and unyielding pursuit of justice. Once an ordinary mercenary, his life changed forever when his family was taken from him by a criminal syndicate. Now known as the 'Lone Hunter,' he hunts down those who bring chaos and destruction. His path crossed with Oblivax, and the two share a deep, unspoken bond over their lost pasts. Together, they walk the thin line between vengeance and redemption, united by their shared enemies.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Fighter"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Master of Weaponry and Strategy"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Mercenary Turned Avenger"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Vengeance and Solitude"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Enhanced Reflexes"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Minimal Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmTjEBNni45hho77VSKLCD3nad4e3bGKVNieJhUXWivdDx",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmTjEBNni45hho77VSKLCD3nad4e3bGKVNieJhUXWivdDx"
+}
