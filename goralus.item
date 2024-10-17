@@ -1,0 +1,40 @@
+{
+  "name": "Goralus",
+  "description": "Goralus is a mysterious figure from a remote planet in the Octies Galaxy. Raised in isolation, he discovered an ancient Neophidian artifact that unlocked hidden abilities within him, allowing him to perceive the energy flows of the universe. Now, he works alone, restoring balance in the chaotic galaxy while occasionally allying with Pavduros to protect the weak from the ambitions of powerful forces.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Isolated Neophidian"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Energy Perception"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Remote Planet"
+    },
+    {
+      "trait_type": "Age",
+      "value": "29 years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Wise and Just"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Neophidian Energy Sense"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Limited Healing"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmdeZ3azFtWYpqXZ5EowBzNrKTNmXfbijoFKDLVC2FjYxM",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmdeZ3azFtWYpqXZ5EowBzNrKTNmXfbijoFKDLVC2FjYxM"
+}
