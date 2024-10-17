@@ -1,0 +1,46 @@
+{
+  "name": "Etherax",
+  "description": "Etherax, once a leading innovator from Earth, was brought to the Octies Galaxy to implement his groundbreaking decentralized systems. His arrival led to a subtle yet intense rivalry with Pavduros, a powerful human-Neophidian hybrid who blends technology and magic. Despite their differences, both must work together to protect the galaxy's digital networks from an unknown threat. Their silent competition may determine the future of the galaxy's technological landscape.",
+  "friends": [
+    {
+      "name": "Pavduros",
+      "contract": "EQC4vShl5VdJuZZvXCIbff4VJ1AGBoxHAa0aqQ4ixEu0YTIG"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Earth-Born Innovator"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Decentralized System Mastermind"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Age",
+      "value": "29 Years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Ambitious and Visionary"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Blockchain Integration"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUKZa9ApURSHovhay6Ra3bHuWe8m4xPVtYcT4PMFMM6KR",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUKZa9ApURSHovhay6Ra3bHuWe8m4xPVtYcT4PMFMM6KR"
+}
