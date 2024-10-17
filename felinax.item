@@ -1,0 +1,40 @@
+{
+  "name": "Felinax",
+  "description": "Felinax, a cunning and agile Felidorian from the planet Felidor, is known for his heightened senses and unpredictable personality. Although playful and carefree on the surface, Felinax is a skilled strategist, assisting Pavduros and the galactic defenders in their missions. His keen ability to detect danger and track enemies makes him a vital ally in the Octies Galaxy, despite his love-hate relationship with Gopnax.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Felidorian Scout"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Heightened Senses and Agility"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Felidor"
+    },
+    {
+      "trait_type": "Age",
+      "value": "35 Years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Playful yet Strategic"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "None"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Fast Reflexes"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPnY6m4ooXQxbGM7Nk9ErowZAhLKUEjSVQNkz662AvKWD",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmPnY6m4ooXQxbGM7Nk9ErowZAhLKUEjSVQNkz662AvKWD"
+}
