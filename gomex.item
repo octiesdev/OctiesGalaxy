@@ -1,0 +1,50 @@
+{
+  "name": "Gomex",
+  "description": "Gomex, a laid-back Zoggronian with a hidden past as a brilliant engineer, prefers a simple life after a failed experiment led to chaos on his home planet. Despite his claims of retirement, his intelligence and quick thinking make him a valuable, though reluctant, asset in critical missions across the Octies Galaxy.",
+  "friends": [
+    {
+      "name": "Pavduros",
+      "contract": "EQC4vShl5VdJuZZvXCIbff4VJ1AGBoxHAa0aqQ4ixEu0YTIG"
+    },
+    {
+      "name": "Codeus",
+      "contract": "EQA9Yuo1ltj9XqhksRSlNhzHSu3G617_E1KZ50Q-XrH1wPLk"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Zoggronian Engineer"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Hidden Engineering Genius"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Zoggron"
+    },
+    {
+      "trait_type": "Age",
+      "value": "45 Years"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Lazy but Resourceful"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Advanced Energy Systems Knowledge"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "None"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmNrUkCAqFWaYWSai16NAF8nhNBy5AdBkZHExzokfY2M6W",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmNrUkCAqFWaYWSai16NAF8nhNBy5AdBkZHExzokfY2M6W"
+}
