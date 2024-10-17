@@ -1,0 +1,40 @@
+{
+  "name": "Selestia",
+  "description": "Selestia is a mysterious and captivating figure in the Octies Galaxy, born on a planet of natural beauty but swept into galactic conflicts over resources. Trained in diplomacy and healing, she became a crucial ally to many of the galaxy’s heroes. Her deep connection with Pavduros Prime began during a mission and has since blossomed into a romantic bond. Selestia is a source of light and peace in Pavduros Prime's dark journey, while he helps her master her powers to protect the innocent. Together, they represent the balance of strategy and heart, mind and emotion.",
+  "attributes": [
+    {
+      "trait_type": "Anthropogenesis",
+      "value": "Neophidian Healer"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Healing and Diplomacy"
+    },
+    {
+      "trait_type": "Metamorphism",
+      "value": "Inner Light"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Peaceful Planet Destroyed by Conflict"
+    },
+    {
+      "trait_type": "Age",
+      "value": "Timeless"
+    },
+    {
+      "trait_type": "Emotional Aspect",
+      "value": "Compassionate and Strong"
+    },
+    {
+      "trait_type": "Nanotechnology",
+      "value": "Emotional Calibration"
+    },
+    {
+      "trait_type": "Regeneration",
+      "value": "Healing Aura"
+    }
+  ],
+  "image": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUSKMRf7mJdhA9qLv1sspeq9JaTyMXYXmqebLQNEAyFSo",
+  "content_url": "https://jade-blank-dog-358.mypinata.cloud/ipfs/QmUSKMRf7mJdhA9qLv1sspeq9JaTyMXYXmqebLQNEAyFSo"
+}
